@@ -1,0 +1,1 @@
+This project aims to understand how to install nginx in docker and create a HTML site and then deploy it
